@@ -14,6 +14,7 @@ This repository contains an automated testing framework for the **Restful-Booker
 
 The project follows a modular architecture for scalability and maintainability:
 
+```text
 restful_booking_api_testing/
 ├── config.py                 # Global configurations (Base URL, Credentials)
 ├── conftest.py               # Shared fixtures (Auth token, reusable entities)
