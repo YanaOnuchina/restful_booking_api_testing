@@ -24,6 +24,7 @@ restful_booking_api_testing/
 │   └── test_negative.py      # Negative scenarios
 │   └── test_search.py        # Search bookings with parameters
 └── .gitignore                # Files excluded from version control
+```
 
 Report screenshot:
 <img width="1270" height="575" alt="image" src="https://github.com/user-attachments/assets/c7932f29-63e2-43a0-b580-78f195f6cf17" />
